@@ -5,6 +5,6 @@ ANQDS is an open-source and MATLAB-based graphical user interface developed to d
 
 This software was developed within the scope of AFAD National Earthquake Research Program (UDAP-Ç-19-13). 
 
-Software Development Team: Ö. Kafadar, H. Livaoğlu and E. Şentürk
+Software Development Team: Ö. Kafadar, E. Şentürk and H. Livaoğlu
 
-Project Team: F. Sertçelik, T. S. Irmak, Ö. Kafadar, E. Yavuz, H. Livaoğlu, E. Şentürk, , S. Gözsüz, G. Merter, B. Türkyılmaz, N. Ceydilek, S. Gerdan
+Project Team: F. Sertçelik, T. S. Irmak, E. Yavuz, Ö. Kafadar, H. Livaoğlu, E. Şentürk, , S. Gözsüz, G. Merter, B. Türkyılmaz, N. Ceydilek, S. Gerdan
