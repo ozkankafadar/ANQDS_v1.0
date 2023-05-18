@@ -7,4 +7,4 @@ This software was developed within the scope of AFAD National Earthquake Researc
 
 Software Development Team: Ö. Kafadar, H. Livaoğlu and E. Şentürk 
 
-Project Team: F. Sertçelik, T. S. Irmak, E. Yavuz, Ö. Kafadar, H. Livaoğlu, E. Şentürk, , S. Gözsüz, G. Merter, B. Türkyılmaz, N. Ceydilek, S. Gerdan
+Project Team: F. Sertçelik, T. S. Irmak, E. Yavuz, Ö. Kafadar, H. Livaoğlu, E. Şentürk, S. Gerdan, S. Gözsüz, G. Merter, B. Türkyılmaz, N. Ceydilek
